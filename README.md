@@ -47,7 +47,7 @@
 ## 🌐 Connect With Me
 
 - 📧 Email: [krrishmehta2005@gmail.com](mailto:krrishmehta2005@gmail.com)
-- 💼 LinkedIn: [Krish Mehta](https://www.linkedin.com/in/krrish-mehta)
+- 💼 LinkedIn: [Krrish Mehta](https://www.linkedin.com/in/krrish-mehta)
 
 ---
 
