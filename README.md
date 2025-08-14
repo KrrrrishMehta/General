@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Krish Mehta
+# 👋 Hi, I’m Krrish Mehta
 
 **An Electronics and Embedded Systems enthusiast specializing in PCB design, firmware development, and AI-powered embedded systems.**
 
