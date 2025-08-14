@@ -7,7 +7,7 @@
 ## 👨‍🎓 About Me
 
 - 🎓 Final-year B.Tech student in **Electronics & Communication** (AI & ML specialization)
-- 🛩️ President, Drone Research Club @ University
+- 🛩️ President, Drone Research Club @ MIT World Peace University
 - ⚡ Embedded Systems Enthusiast | PCB Designer | Edge AI Explorer
 
 ---
